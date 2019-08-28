@@ -1,5 +1,6 @@
 /*
   Created by: Rasmus Lauridsen, 2.I
+  Date: 28-08-2019
 
   Use LEFT MOUSE to draw red boxes
   Use RIGHT MOUSE to "delete" boxes (they are actually just painted black)
